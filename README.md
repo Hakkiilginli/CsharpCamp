@@ -17,7 +17,7 @@ Bu projede for, while ve foreach döngüleri ile tanıştım. Döngülerle yenid
 ## 📍 Proje 5: Döngelerle Pratik Uygulamalar
 Bu projede,döngülerle şekil çizen uygulamalar geliştirdim.🧑🏽‍💻
 
-## 📍 Proje 6: Proje 3: Diziler 
+## 📍 Proje 6: Diziler 
 Bu projede, diziler ile çalışmayı öğrendim. Birden fazla değeri bir dizi içinde nasıl depolayabileceğimi ve döngülerle bu değerleri nasıl işleyebileceğimi keşfettim. ⚓️
 
 ## 📍 Proje 7: Foreach Döngüsü ve Sınav Sistemi
